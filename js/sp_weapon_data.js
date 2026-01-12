@@ -2990,5 +2990,31 @@ const sp_weapon_data = {
     cn_name: '月桂时轮',
     en_name: 'Laureled Timepiece',
     tw_name: 'Laureled Timepiece'
+  },
+  9914980: {
+    id: 9914980,
+    icon: '14980',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 40206,
+    type: 2,
+    jp_name: 'クロウ＆リボン',
+    cn_name: '锐爪与飘带',
+    en_name: 'Claw and Ribbon',
+    tw_name: 'Claw and Ribbon'
+  },
+  9915000: {
+    id: 9915000,
+    icon: '15000',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 20401,
+    type: 6,
+    jp_name: '誓約された騎士の剣',
+    cn_name: '骑士的誓约长剑 ',
+    en_name: "Sworn Knight's Sword",
+    tw_name: "Sworn Knight's Sword"
   }
 }
