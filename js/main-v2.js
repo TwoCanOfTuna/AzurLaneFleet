@@ -45,6 +45,14 @@ const lan_target_list = [
       jp: '▼ 詳細データ',
       tw: '▼ 詳細資料'
     },
+    {
+      id: 'site_notice',
+      en: '⚠️ NOTICE: This site is no longer maintained as I have moved on from the game. There are better alternatives, regardless I want to apologize to everyone that kept using this site. Thank you',
+      jp: '⚠️ お知らせ：ゲームから離れたため、このサイトはもう更新されていません。より良い代替サイトがありますが、それでもこのサイトを使い続けてくださった皆様にお詫び申し上げます。ありがとうございました',
+      tw: '⚠️ 公告：由於我已經不再玩這個遊戲，本網站已停止維護。雖然有更好的替代方案，但我仍想向一直使用本網站的各位致歉。謝謝大家',
+      cn: '⚠️ 公告：由于我已经不再玩这个游戏，本网站已停止维护。虽然有更好的替代方案，但我仍想向一直使用本网站的各位致歉。谢谢大家'
+    },
+
     { id: 'display_info_level', en: 'Level', jp: 'レベル', tw: '等級' },
     { id: 'display_info_affinity', en: 'Affinity', jp: '好感度', tw: '好感度' },
     {
@@ -480,10 +488,42 @@ Object.defineProperty(Array.prototype, 'sameAs', {
     }
 })
 
+//----------------------------------------------------------
+// notice manager helper object
+
+const noticeManager = {
+  checkAndShowNotice () {
+    const dismissed = LS.userSetting.get(settingKey.noticeDismissed)
+    const noticeElement = document.getElementById('site_notice')
+
+    if (!noticeElement) return
+
+    if (dismissed === '1') {
+      noticeElement.style.display = 'none'
+    } else {
+      noticeElement.style.display = 'block'
+      this.addDismissHandler()
+    }
+  },
+
+  addDismissHandler () {
+    const noticeElement = document.getElementById('site_notice')
+    const closeBtn = noticeElement.querySelector('.close-notice')
+
+    if (closeBtn) {
+      closeBtn.addEventListener('click', () => {
+        noticeElement.style.display = 'none'
+        LS.userSetting.set(settingKey.noticeDismissed, '1')
+      })
+    }
+  }
+}
+
 const settingKey = {
     language: 'language',
     fleetData: 'fleetData',
     allowDup: 'allowDup',
+    noticeDismissed: 'noticeDismissed',
     thickFrame: 'thickFrame',
     layout: 'layout',
     fleetEdit: 'fleetEdit',
@@ -4879,6 +4919,8 @@ const settingKey = {
         if (window.location.protocol == 'file:') {
           document.getElementById('subtn').remove()
         }
+
+        noticeManager.checkAndShowNotice()
 
         return true
 
