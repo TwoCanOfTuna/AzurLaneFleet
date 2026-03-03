@@ -13870,9 +13870,9 @@ const equip_data = {
 		id: 85800,
 		icon: '85800',
 		ship_type_forbidden: [8, 17, 22, 23, 24],
-		jp_name: '_',
-		cn_name: '_',
-		tw_name: '_',
+		jp_name: 'SM-40 試作型220mm三連装砲',
+		cn_name: 'SM-40 试作型三联装220mm主炮',
+		tw_name: 'SM-40 Prototype Triple 220mm Main Gun Mount',
 		en_name: 'SM-40 Prototype Triple 220mm Main Gun Mount',
 		equip_limit: 0,
 		cd: [1467, 1431, 1396, 1360, 1325, 1290, 1254, 1219, 1183, 1148, 1113, 1113, 1113, 1113]
