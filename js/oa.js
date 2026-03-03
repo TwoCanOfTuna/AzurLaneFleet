@@ -5,7 +5,7 @@ const url_shortener = async (original_url = "", token = false) => {
 		if (result) {
 			success = true;
 			return {
-				url: `https://renhex.github.io/alft/${result.num}`,
+				url: `https://twocanoftuna.github.io/alft/${result.num}`,
 				token: token,
 			};
 		}
@@ -20,7 +20,7 @@ const url_shortener = async (original_url = "", token = false) => {
 			let result = await post_url(data.token, original_url);
 			if (result) {
 				return {
-					url: `https://renhex.github.io/alft/${result.num}`,
+					url: `https://twocanoftuna.github.io/alft/${result.num}`,
 					token: data.token,
 				};
 			} else {
@@ -64,7 +64,7 @@ const url_shortener = async (original_url = "", token = false) => {
 
 	async function post_url(token, url) {
 		const target_repo_name = "alft-db",
-			api_url = `https://api.github.com/repos/renhex/${target_repo_name}/issues`;
+			api_url = `https://api.github.com/repos/twocanoftuna/${target_repo_name}/issues`;
 		let headers = new Headers({
 			"Accept": "application/vnd.github.v3+json",
 			"Authorization": `Bearer ${token}`,
