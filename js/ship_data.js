@@ -32852,9 +32852,9 @@ const ship_data = {
     "retro": 0,
     "uni_id": "502120",
     "painting": "502120",
-    "jp_name": "Hai Chou",
+    "jp_name": "海籌",
     "en_name": "Hai Chou",
-    "cn_name": "Hai Chou",
+    "cn_name": "海筹",
     "tw_name": "Hai Chou",
     "equip_1": [
       2
@@ -32951,9 +32951,9 @@ const ship_data = {
     "retro": 0,
     "uni_id": "503020",
     "painting": "503020",
-    "jp_name": "Chang Wu",
+    "jp_name": "彰武",
     "en_name": "Chang Wu",
-    "cn_name": "Chang Wu",
+    "cn_name": "彰武",
     "tw_name": "Chang Wu",
     "equip_1": [
       3
@@ -33874,9 +33874,9 @@ const ship_data = {
     "retro": 0,
     "uni_id": "601120",
     "painting": "601120",
-    "jp_name": "Ugolino Vivaldi",
+    "jp_name": "ウゴリーノ・ヴィヴァルディ",
     "en_name": "Ugolino Vivaldi",
-    "cn_name": "Ugolino Vivaldi",
+    "cn_name": "乌戈里诺·维瓦尔迪",
     "tw_name": "Ugolino Vivaldi",
     "equip_1": [
       1
@@ -34078,9 +34078,9 @@ const ship_data = {
     "retro": 0,
     "uni_id": "602040",
     "painting": "602040",
-    "jp_name": "Alberto di Giussano",
+    "jp_name": "アルベルト・ディ・ジュッサーノ",
     "en_name": "Alberto di Giussano",
-    "cn_name": "Alberto di Giussano",
+    "cn_name": "阿尔贝托·迪·朱塞诺",
     "tw_name": "Alberto di Giussano",
     "equip_1": [
       2
@@ -34777,9 +34777,9 @@ const ship_data = {
     "retro": 0,
     "uni_id": "605090",
     "painting": "605090",
-    "jp_name": "Francesco Caracciolo",
+    "jp_name": "フランチェスコ・カラッチョロ",
     "en_name": "Francesco Caracciolo",
-    "cn_name": "Francesco Caracciolo",
+    "cn_name": "弗朗西斯科·卡拉乔洛",
     "tw_name": "Francesco Caracciolo",
     "equip_1": [
       4
@@ -41294,9 +41294,9 @@ const ship_data = {
     "retro": 0,
     "uni_id": "9701100",
     "painting": "9701100",
-    "jp_name": "Dewey META",
+    "jp_name": "デューイ(META)",
     "en_name": "Dewey META",
-    "cn_name": "Dewey META",
+    "cn_name": "杜威·META",
     "tw_name": "Dewey META",
     "equip_1": [
       1
@@ -41345,9 +41345,9 @@ const ship_data = {
     "retro": 0,
     "uni_id": "9701110",
     "painting": "9701110",
-    "jp_name": "Carabiniere META",
+    "jp_name": "カラビニエーレ(META)",
     "en_name": "Carabiniere META",
-    "cn_name": "Carabiniere META",
+    "cn_name": "龙骑兵·META",
     "tw_name": "Carabiniere META",
     "equip_1": [
       1
