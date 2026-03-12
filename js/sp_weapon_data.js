@@ -3627,8 +3627,8 @@ const sp_weapon_data = {
     "en_name": "Sworn Knight's Sword",
     "tw_name": "Sworn Knight's Sword"
   },
-  "15020": {
-    "id": 15020,
+  "9915020": {
+    "id": 9915020,
     "icon": "15020",
     "eq_reload": [],
     "rarity": 4,
