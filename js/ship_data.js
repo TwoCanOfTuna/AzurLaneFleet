@@ -41836,6 +41836,57 @@ const ship_data = {
       0.0
     ]
   },
+  "9702110": {
+    "nationality": 97,
+    "type": 2,
+    "base_list": [
+      1,
+      2,
+      1
+    ],
+    "id": 9702114,
+    "skin_id": 9702110,
+    "english_name": "Regensburg.META",
+    "star": 6,
+    "rarity": 5,
+    "retro": 0,
+    "uni_id": "9702110",
+    "painting": "9702110",
+    "jp_name": "Regensburg META",
+    "en_name": "Regensburg META",
+    "cn_name": "Regensburg META",
+    "tw_name": "Regensburg META",
+    "equip_1": [
+      2
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "eq_p": [
+      1.45,
+      1.35,
+      1.2
+    ],
+    "reload": [
+      71,
+      491,
+      0,
+      53,
+      0
+    ],
+    "date": "March 12th 2026"
+  },
   "9703010": {
     "nationality": 97,
     "type": 3,
