@@ -3641,8 +3641,8 @@ const sp_weapon_data = {
     "cn_name": "佐治亚光线！",
     "tw_name": "Georgia Beam!"
   },
-  "15040": {
-    "id": 15040,
+  "9915040": {
+    "id": 9915040,
     "icon": "15040",
     "eq_reload": [],
     "rarity": 4,
@@ -3655,8 +3655,8 @@ const sp_weapon_data = {
     "cn_name": "纯白的雪见兔",
     "tw_name": "Shirayuki's Snowbunny"
   },
-  "15060": {
-    "id": 15060,
+  "9915060": {
+    "id": 9915060,
     "icon": "15060",
     "eq_reload": [],
     "rarity": 4,
@@ -3683,8 +3683,8 @@ const sp_weapon_data = {
     "cn_name": "Staff of Machinery & Logic",
     "tw_name": "Staff of Machinery & Logic"
   },
-  "15100": {
-    "id": 15100,
+  "9915100": {
+    "id": 9915100,
     "icon": "15100",
     "eq_reload": [],
     "rarity": 4,
@@ -3697,8 +3697,8 @@ const sp_weapon_data = {
     "cn_name": "Undying Demon",
     "tw_name": "Undying Demon"
   },
-  "15120": {
-    "id": 15120,
+  "9915120": {
+    "id": 9915120,
     "icon": "15120",
     "eq_reload": [],
     "rarity": 4,
@@ -3711,8 +3711,8 @@ const sp_weapon_data = {
     "cn_name": "Twins of a Rigging",
     "tw_name": "Twins of a Rigging"
   },
-  "15140": {
-    "id": 15140,
+  "9915140": {
+    "id": 9915140,
     "icon": "15140",
     "eq_reload": [],
     "rarity": 4,
