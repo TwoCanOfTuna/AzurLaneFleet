@@ -22190,6 +22190,108 @@ const ship_data = {
       0.0
     ]
   },
+  "302280": {
+    "nationality": 3,
+    "type": 2,
+    "base_list": [
+      1,
+      2,
+      1
+    ],
+    "id": 302284,
+    "skin_id": 302280,
+    "english_name": "IJN Kizu",
+    "star": 5,
+    "rarity": 4,
+    "retro": 0,
+    "uni_id": "302280",
+    "painting": "302280",
+    "jp_name": "Kizu",
+    "en_name": "Kizu",
+    "cn_name": "Kizu",
+    "tw_name": "Kizu",
+    "equip_1": [
+      2
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "eq_p": [
+      1.2,
+      1.65,
+      1.15
+    ],
+    "reload": [
+      70,
+      490,
+      0,
+      53,
+      0
+    ],
+    "date": "March 26th 2026"
+  },
+  "302290": {
+    "nationality": 3,
+    "type": 2,
+    "base_list": [
+      1,
+      2,
+      1
+    ],
+    "id": 302294,
+    "skin_id": 302290,
+    "english_name": "IJN Nayoro",
+    "star": 5,
+    "rarity": 4,
+    "retro": 0,
+    "uni_id": "302290",
+    "painting": "302290",
+    "jp_name": "Nayoro",
+    "en_name": "Nayoro",
+    "cn_name": "Nayoro",
+    "tw_name": "Nayoro",
+    "equip_1": [
+      2
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "eq_p": [
+      1.2,
+      1.65,
+      1.15
+    ],
+    "reload": [
+      70,
+      490,
+      0,
+      53,
+      0
+    ],
+    "date": "March 26th 2026"
+  },
   "303010": {
     "nationality": 3,
     "type": 3,
@@ -25886,6 +25988,55 @@ const ship_data = {
       35.0,
       0.0
     ]
+  },
+  "307170": {
+    "nationality": 3,
+    "type": 7,
+    "base_list": [
+      3,
+      2,
+      3
+    ],
+    "id": 307174,
+    "skin_id": 307170,
+    "english_name": "IJN Unryū",
+    "star": 6,
+    "rarity": 5,
+    "retro": 0,
+    "uni_id": "307170",
+    "painting": "307170",
+    "jp_name": "Unryuu",
+    "en_name": "Unryuu",
+    "cn_name": "Unryuu",
+    "tw_name": "Unryuu",
+    "equip_1": [
+      7
+    ],
+    "equip_2": [
+      9
+    ],
+    "equip_3": [
+      8
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "eq_p": [
+      1.25,
+      1.15,
+      1.35
+    ],
+    "reload": [
+      44,
+      307,
+      0,
+      33,
+      0
+    ],
+    "date": "March 26th 2026"
   },
   "308010": {
     "nationality": 3,
@@ -41835,6 +41986,58 @@ const ship_data = {
       53.0,
       0.0
     ]
+  },
+  "9702100": {
+    "nationality": 97,
+    "type": 2,
+    "base_list": [
+      1,
+      2,
+      1
+    ],
+    "id": 9702104,
+    "skin_id": 9702100,
+    "english_name": "Köln.META",
+    "star": 5,
+    "rarity": 4,
+    "retro": 0,
+    "uni_id": "9702100",
+    "painting": "9702100",
+    "jp_name": "Köln META",
+    "en_name": "Köln META",
+    "cn_name": "Köln META",
+    "tw_name": "Köln META",
+    "equip_1": [
+      2
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14,
+      17
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "eq_p": [
+      1.2,
+      1.7,
+      1.3
+    ],
+    "reload": [
+      67,
+      466,
+      0,
+      50,
+      0
+    ],
+    "date": "April 1st 2026"
   },
   "9702110": {
     "nationality": 97,
