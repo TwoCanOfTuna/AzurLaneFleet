@@ -3725,8 +3725,8 @@ const sp_weapon_data = {
     "cn_name": "Snowball Trio",
     "tw_name": "Snowball Trio"
   },
-  "15160": {
-    "id": 15160,
+  "9915160": {
+    "id": 9915160,
     "icon": "15160",
     "eq_reload": [],
     "rarity": 4,
