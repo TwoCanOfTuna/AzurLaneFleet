@@ -1,4 +1,4 @@
-const gear_data = {
+const equip_data = {
   "500": {
     "nationality": 1,
     "type": 10,
