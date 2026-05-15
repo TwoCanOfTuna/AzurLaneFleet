@@ -24593,6 +24593,57 @@ const ship_data = {
       0.0
     ]
   },
+  "305170": {
+    "nationality": 3,
+    "type": 5,
+    "base_list": [
+      3,
+      3,
+      1
+    ],
+    "id": 305174,
+    "skin_id": 305170,
+    "english_name": "IJN Musashi",
+    "star": 5,
+    "rarity": 4,
+    "retro": 0,
+    "uni_id": "305170",
+    "painting": "305170",
+    "jp_name": "Musashi-chan",
+    "en_name": "Musashi-chan",
+    "cn_name": "Musashi-chan",
+    "tw_name": "Musashi-chan",
+    "equip_1": [
+      4
+    ],
+    "equip_2": [
+      1,
+      2
+    ],
+    "equip_3": [
+      6,
+      21
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "eq_p": [
+      1.55,
+      2.2,
+      1
+    ],
+    "reload": [
+      53,
+      372,
+      0,
+      40,
+      0
+    ],
+    "date": "April 30th 2026"
+  },
   "306010": {
     "nationality": 3,
     "type": 6,
@@ -45624,6 +45675,306 @@ const ship_data = {
       0
     ],
     "date": "2023年4月27日"
+  },
+  "10600100": {
+    "nationality": 106,
+    "type": 7,
+    "base_list": [
+      3,
+      3,
+      2
+    ],
+    "id": 10600104,
+    "skin_id": 10600100,
+    "english_name": "Elise",
+    "star": 6,
+    "rarity": 5,
+    "retro": 0,
+    "uni_id": "10600100",
+    "painting": "10600100",
+    "jp_name": "Elise",
+    "en_name": "Elise",
+    "cn_name": "Elise",
+    "tw_name": "Elise",
+    "equip_1": [
+      7
+    ],
+    "equip_2": [
+      9
+    ],
+    "equip_3": [
+      8
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "eq_p": [
+      1.35,
+      1.25,
+      1.25
+    ],
+    "reload": [
+      47,
+      328,
+      0,
+      35,
+      0
+    ],
+    "date": "April 17th 2026"
+  },
+  "10600110": {
+    "nationality": 106,
+    "type": 5,
+    "base_list": [
+      3,
+      3,
+      1
+    ],
+    "id": 10600114,
+    "skin_id": 10600110,
+    "english_name": "Shizuku",
+    "star": 6,
+    "rarity": 5,
+    "retro": 0,
+    "uni_id": "10600110",
+    "painting": "10600110",
+    "jp_name": "Shizuku",
+    "en_name": "Shizuku",
+    "cn_name": "Shizuku",
+    "tw_name": "Shizuku",
+    "equip_1": [
+      4
+    ],
+    "equip_2": [
+      1,
+      2
+    ],
+    "equip_3": [
+      6,
+      21
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "eq_p": [
+      1.35,
+      2,
+      1
+    ],
+    "reload": [
+      51,
+      353,
+      0,
+      38,
+      0
+    ],
+    "date": "April 17th 2026"
+  },
+  "10600120": {
+    "nationality": 106,
+    "type": 3,
+    "base_list": [
+      1,
+      2,
+      1
+    ],
+    "id": 10600124,
+    "skin_id": 10600120,
+    "english_name": "Shandy",
+    "star": 6,
+    "rarity": 5,
+    "retro": 0,
+    "uni_id": "10600120",
+    "painting": "10600120",
+    "jp_name": "Shandy",
+    "en_name": "Shandy",
+    "cn_name": "Shandy",
+    "tw_name": "Shandy",
+    "equip_1": [
+      3
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "eq_p": [
+      1.35,
+      1.65,
+      1.05
+    ],
+    "reload": [
+      66,
+      462,
+      0,
+      50,
+      0
+    ],
+    "date": "April 17th 2026"
+  },
+  "10600130": {
+    "nationality": 106,
+    "type": 1,
+    "base_list": [
+      1,
+      2,
+      1
+    ],
+    "id": 10600134,
+    "skin_id": 10600130,
+    "english_name": "Tsukushi",
+    "star": 6,
+    "rarity": 5,
+    "retro": 0,
+    "uni_id": "10600130",
+    "painting": "10600130",
+    "jp_name": "Tsukushi",
+    "en_name": "Tsukushi",
+    "cn_name": "Tsukushi",
+    "tw_name": "Tsukushi",
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "eq_p": [
+      1.25,
+      1.4,
+      1.15
+    ],
+    "reload": [
+      80,
+      554,
+      0,
+      59,
+      0
+    ],
+    "date": "April 17th 2026"
+  },
+  "10600140": {
+    "nationality": 106,
+    "type": 8,
+    "base_list": [
+      2,
+      2,
+      1
+    ],
+    "id": 10600144,
+    "skin_id": 10600140,
+    "english_name": "Patty",
+    "star": 6,
+    "rarity": 5,
+    "retro": 0,
+    "uni_id": "10600140",
+    "painting": "10600140",
+    "jp_name": "Patty",
+    "en_name": "Patty",
+    "cn_name": "Patty",
+    "tw_name": "Patty",
+    "equip_1": [
+      13
+    ],
+    "equip_2": [
+      13
+    ],
+    "equip_3": [
+      1
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "eq_p": [
+      1.3,
+      1.3,
+      0.75
+    ],
+    "reload": [
+      38,
+      263,
+      0,
+      28,
+      0
+    ],
+    "date": "April 17th 2026"
+  },
+  "10600150": {
+    "nationality": 106,
+    "type": 2,
+    "base_list": [
+      2,
+      1,
+      1
+    ],
+    "id": 10600154,
+    "skin_id": 10600150,
+    "english_name": "Yukino",
+    "star": 6,
+    "rarity": 5,
+    "retro": 0,
+    "uni_id": "10600150",
+    "painting": "10600150",
+    "jp_name": "Yukino",
+    "en_name": "Yukino",
+    "cn_name": "Yukino",
+    "tw_name": "Yukino",
+    "equip_1": [
+      2
+    ],
+    "equip_2": [
+      1
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "eq_p": [
+      1.3,
+      0.7,
+      1.1
+    ],
+    "reload": [
+      71,
+      492,
+      0,
+      53,
+      0
+    ],
+    "date": "April 17th 2026"
   },
   "10700010": {
     "nationality": 107,
