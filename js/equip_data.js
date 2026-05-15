@@ -25697,6 +25697,36 @@ const equip_data = {
     "equip_limit": 0,
     "cd": []
   },
+  "150940": {
+    "nationality": 0,
+    "type": 10,
+    "rarity": 4,
+    "tech": 0,
+    "id": 150940,
+    "icon": "150940",
+    "ship_type_forbidden": [],
+    "jp_name": "監督役の脚本",
+    "cn_name": "导演的剧本书",
+    "tw_name": "Director's Screenplay",
+    "en_name": "Director's Screenplay",
+    "equip_limit": 150940,
+    "cd": []
+  },
+  "150960": {
+    "nationality": 5,
+    "type": 10,
+    "rarity": 4,
+    "tech": 0,
+    "id": 150960,
+    "icon": "150960",
+    "ship_type_forbidden": [],
+    "jp_name": "オークション招待状",
+    "cn_name": "拍卖会请柬",
+    "tw_name": "Auction Invitation",
+    "en_name": "Auction Invitation",
+    "equip_limit": 150960,
+    "cd": []
+  },
   "150980": {
     "nationality": 5,
     "type": 10,
@@ -25815,6 +25845,21 @@ const equip_data = {
     "tw_name": "Clover of Happiness",
     "en_name": "Clover of Happiness",
     "equip_limit": 151120,
+    "cd": []
+  },
+  "151140": {
+    "nationality": 9,
+    "type": 10,
+    "rarity": 4,
+    "tech": 0,
+    "id": 151140,
+    "icon": "151140",
+    "ship_type_forbidden": [],
+    "jp_name": "Key to the Tribunal's Hand",
+    "cn_name": "Key to the Tribunal's Hand",
+    "tw_name": "Key to the Tribunal's Hand",
+    "en_name": "Key to the Tribunal's Hand",
+    "equip_limit": 151140,
     "cd": []
   }
 }
