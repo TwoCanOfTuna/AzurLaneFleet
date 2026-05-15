@@ -3754,7 +3754,7 @@ const sp_weapon_data = {
     "tw_name": "Totally Helpless Bunny Pouch"
   },
   "9915200": {
-    "id": "9915200",
+    "id": 9915200,
     "icon": "15200",
     "eq_reload": [],
     "rarity": 4,
@@ -3768,7 +3768,7 @@ const sp_weapon_data = {
     "tw_name": "Stollen"
   },
   "9915220": {
-    "id": "9915220",
+    "id": 9915220,
     "icon": "15220",
     "eq_reload": [],
     "rarity": 4,
@@ -3782,7 +3782,7 @@ const sp_weapon_data = {
     "tw_name": "Shishamo Tempura"
   },
   "9915240": {
-    "id": "9915240",
+    "id": 9915240,
     "icon": "15240",
     "eq_reload": [],
     "rarity": 4,
@@ -3796,7 +3796,7 @@ const sp_weapon_data = {
     "tw_name": "Chili Crab"
   },
   "9915260": {
-    "id": "9915260",
+    "id": 9915260,
     "icon": "15260",
     "eq_reload": [],
     "rarity": 4,
@@ -3810,7 +3810,7 @@ const sp_weapon_data = {
     "tw_name": "Cup Ramen"
   },
   "9915280": {
-    "id": "9915280",
+    "id": 9915280,
     "icon": "15280",
     "eq_reload": [],
     "rarity": 4,
@@ -3824,7 +3824,7 @@ const sp_weapon_data = {
     "tw_name": "Hamburger"
   },
   "9915300": {
-    "id": "9915300",
+    "id": 9915300,
     "icon": "15300",
     "eq_reload": [],
     "rarity": 4,
@@ -3838,7 +3838,7 @@ const sp_weapon_data = {
     "tw_name": "Matcha Ice Cream"
   },
   "9915320": {
-    "id": "9915320",
+    "id": 9915320,
     "icon": "15320",
     "eq_reload": [],
     "rarity": 4,
@@ -3852,7 +3852,7 @@ const sp_weapon_data = {
     "tw_name": "Blade of Nobility and Honor"
   },
   "9915340": {
-    "id": "9915340",
+    "id": 9915340,
     "icon": "15340",
     "eq_reload": [],
     "rarity": 4,
