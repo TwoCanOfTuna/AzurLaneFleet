@@ -27238,6 +27238,108 @@ const ship_data = {
       0.0
     ]
   },
+  "401140": {
+    "nationality": 4,
+    "type": 1,
+    "base_list": [
+      1,
+      2,
+      1
+    ],
+    "id": 401144,
+    "skin_id": 401140,
+    "english_name": "KMS Friedrich Ihn",
+    "star": 5,
+    "rarity": 4,
+    "retro": 0,
+    "uni_id": "401140",
+    "painting": "401140",
+    "jp_name": "Z14",
+    "en_name": "Z14",
+    "cn_name": "弗蕾娜",
+    "tw_name": "Z14",
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "eq_p": [
+      1.25,
+      1.4,
+      0.75
+    ],
+    "reload": [
+      77,
+      534,
+      0,
+      57,
+      0
+    ],
+    "date": "May 20th 2026"
+  },
+  "401150": {
+    "nationality": 4,
+    "type": 1,
+    "base_list": [
+      1,
+      2,
+      1
+    ],
+    "id": 401154,
+    "skin_id": 401150,
+    "english_name": "KMS Erich Steinbrinck",
+    "star": 5,
+    "rarity": 4,
+    "retro": 0,
+    "uni_id": "401150",
+    "painting": "401150",
+    "jp_name": "Z15",
+    "en_name": "Z15",
+    "cn_name": "埃丽莎",
+    "tw_name": "Z15",
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "eq_p": [
+      1.25,
+      1.4,
+      0.75
+    ],
+    "reload": [
+      78,
+      541,
+      0,
+      58,
+      0
+    ],
+    "date": "May 20th 2026"
+  },
   "401160": {
     "nationality": 4,
     "type": 1,
@@ -29569,6 +29671,56 @@ const ship_data = {
       0.0
     ]
   },
+  "403170": {
+    "nationality": 4,
+    "type": 3,
+    "base_list": [
+      1,
+      2,
+      1
+    ],
+    "id": 403174,
+    "skin_id": 403170,
+    "english_name": "KMS Prinz Moritz",
+    "star": 6,
+    "rarity": 5,
+    "retro": 0,
+    "uni_id": "403170",
+    "painting": "403170",
+    "jp_name": "プリンツ・モーリッツ",
+    "en_name": "Prinz Moritz",
+    "cn_name": "莫琳亲王",
+    "tw_name": "Prinz Moritz",
+    "equip_1": [
+      3,
+      11
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "eq_p": [
+      1.55,
+      1.35,
+      1
+    ],
+    "reload": [
+      67,
+      467,
+      0,
+      50,
+      0
+    ],
+    "date": "May 20th 2026"
+  },
   "404010": {
     "nationality": 4,
     "type": 4,
@@ -30231,6 +30383,57 @@ const ship_data = {
       40.0,
       0.0
     ]
+  },
+  "405070": {
+    "nationality": 4,
+    "type": 5,
+    "base_list": [
+      3,
+      3,
+      1
+    ],
+    "id": 405074,
+    "skin_id": 405070,
+    "english_name": "KMS Gotz von Berlichingen",
+    "star": 6,
+    "rarity": 6,
+    "retro": 0,
+    "uni_id": "405070",
+    "painting": "405070",
+    "jp_name": "ゲッツ・フォン・ベルリヒンゲン",
+    "en_name": "Götz von Berlichingen",
+    "cn_name": "戈达·冯·贝格海姆",
+    "tw_name": "Götz von Berlichingen",
+    "equip_1": [
+      4
+    ],
+    "equip_2": [
+      1,
+      2
+    ],
+    "equip_3": [
+      6,
+      21
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "eq_p": [
+      1.6,
+      2.1,
+      0.9
+    ],
+    "reload": [
+      65,
+      454,
+      0,
+      49,
+      0
+    ],
+    "date": "May 20th 2026"
   },
   "406010": {
     "nationality": 4,
@@ -31268,6 +31471,55 @@ const ship_data = {
       30.0,
       0.0
     ]
+  },
+  "408150": {
+    "nationality": 4,
+    "type": 8,
+    "base_list": [
+      2,
+      2,
+      1
+    ],
+    "id": 408154,
+    "skin_id": 408150,
+    "english_name": "KMS U-2501",
+    "star": 6,
+    "rarity": 6,
+    "retro": 0,
+    "uni_id": "408150",
+    "painting": "408150",
+    "jp_name": "U-2501",
+    "en_name": "U-2501",
+    "cn_name": "优妮可欧伊",
+    "tw_name": "U-2501",
+    "equip_1": [
+      13
+    ],
+    "equip_2": [
+      13
+    ],
+    "equip_3": [
+      10
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "eq_p": [
+      1.4,
+      1.35,
+      0.85
+    ],
+    "reload": [
+      43,
+      300,
+      0,
+      32,
+      0
+    ],
+    "date": "May 20th 2026"
   },
   "499010": {
     "nationality": 4,
@@ -43438,6 +43690,57 @@ const ship_data = {
       48.0,
       0.0
     ]
+  },
+  "9706050": {
+    "nationality": 97,
+    "type": 6,
+    "base_list": [
+      3,
+      3,
+      1
+    ],
+    "id": 9706054,
+    "skin_id": 9706050,
+    "english_name": "Elbe.META",
+    "star": 6,
+    "rarity": 5,
+    "retro": 0,
+    "uni_id": "9706050",
+    "painting": "9706050",
+    "jp_name": "エルベ(META)",
+    "en_name": "Elbe META",
+    "cn_name": "埃尔斯贝特·META",
+    "tw_name": "Elbe META",
+    "equip_1": [
+      7
+    ],
+    "equip_2": [
+      9
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      15
+    ],
+    "equip_5": [
+      10,
+      15
+    ],
+    "eq_p": [
+      1.65,
+      1.35,
+      0.8
+    ],
+    "reload": [
+      71,
+      491,
+      0,
+      53,
+      0
+    ],
+    "date": "May 20th 2026"
   },
   "9707010": {
     "nationality": 97,
