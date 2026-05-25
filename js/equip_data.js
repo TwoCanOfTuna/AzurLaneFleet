@@ -25861,5 +25861,40 @@ const equip_data = {
     "en_name": "Key to the Tribunal's Hand",
     "equip_limit": 151140,
     "cd": []
+  },
+  "151160": {
+    "nationality": 4,
+    "type": 10,
+    "rarity": 5,
+    "tech": 3,
+    "id": 151160,
+    "icon": "800",
+    "ship_type_forbidden": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12,
+      13,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "jp_name": "Pressure-Resistant Hull Design",
+    "cn_name": "Pressure-Resistant Hull Design",
+    "tw_name": "Pressure-Resistant Hull Design",
+    "en_name": "Pressure-Resistant Hull Design",
+    "equip_limit": 800,
+    "cd": []
   }
 }
