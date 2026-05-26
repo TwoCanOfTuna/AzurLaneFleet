@@ -25890,8 +25890,8 @@ const equip_data = {
       23,
       24
     ],
-    "jp_name": "Pressure-Resistant Hull Design",
-    "cn_name": "Pressure-Resistant Hull Design",
+    "jp_name": "強化耐圧殻設計案",
+    "cn_name": "艇壳改良设计案",
     "tw_name": "Pressure-Resistant Hull Design",
     "en_name": "Pressure-Resistant Hull Design",
     "equip_limit": 800,
