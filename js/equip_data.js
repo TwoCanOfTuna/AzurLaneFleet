@@ -13057,6 +13057,40 @@ const equip_data = {
       301
     ]
   },
+  "31320": {
+    "nationality": 3,
+    "type": 1,
+    "rarity": 6,
+    "tech": 0,
+    "id": 31320,
+    "icon": "31320",
+    "ship_type_forbidden": [
+      22,
+      23,
+      24
+    ],
+    "jp_name": "試作型127mm五式連装砲",
+    "cn_name": "试作型五式127mm连装炮",
+    "tw_name": "Prototype Twin 127mm Type 5 Main Gun",
+    "en_name": "Prototype Twin 127mm Type 5 Main Gun",
+    "equip_limit": 0,
+    "cd": [
+      271,
+      265,
+      259,
+      253,
+      247,
+      241,
+      235,
+      229,
+      223,
+      217,
+      211,
+      211,
+      211,
+      211
+    ]
+  },
   "32000": {
     "nationality": 3,
     "type": 2,
@@ -19700,6 +19734,41 @@ const equip_data = {
       1680
     ]
   },
+  "48060": {
+    "nationality": 4,
+    "type": 8,
+    "rarity": 5,
+    "tech": 0,
+    "id": 48060,
+    "icon": "48060",
+    "ship_type_forbidden": [
+      10,
+      22,
+      23,
+      24
+    ],
+    "jp_name": "FW-190 F-8/U2",
+    "cn_name": "FW-190 F-8/U2",
+    "tw_name": "FW-190 F-8/U2",
+    "en_name": "FW-190 F-8/U2",
+    "equip_limit": 0,
+    "cd": [
+      2084,
+      2044,
+      2004,
+      1964,
+      1924,
+      1884,
+      1844,
+      1804,
+      1764,
+      1724,
+      1684,
+      1684,
+      1684,
+      1684
+    ]
+  },
   "49000": {
     "nationality": 4,
     "type": 9,
@@ -20936,6 +21005,130 @@ const equip_data = {
       1113,
       1113,
       1113
+    ]
+  },
+  "85820": {
+    "nationality": 7,
+    "type": 7,
+    "rarity": 3,
+    "tech": 0,
+    "id": 85820,
+    "icon": "85820",
+    "ship_type_forbidden": [
+      22,
+      23,
+      24
+    ],
+    "jp_name": "I-15",
+    "cn_name": "I-15",
+    "tw_name": "I-15",
+    "en_name": "I-15",
+    "equip_limit": 0,
+    "cd": [
+      1638,
+      1615,
+      1592,
+      1569,
+      1546,
+      1523,
+      1500,
+      1500
+    ]
+  },
+  "85840": {
+    "nationality": 7,
+    "type": 7,
+    "rarity": 4,
+    "tech": 0,
+    "id": 85840,
+    "icon": "85840",
+    "ship_type_forbidden": [
+      22,
+      23,
+      24
+    ],
+    "jp_name": "試作型艦上式Yak-1",
+    "cn_name": "试作舰载型Yak-1",
+    "tw_name": "Prototype Carrier-Based Yak-1",
+    "en_name": "Prototype Carrier-Based Yak-1",
+    "equip_limit": 0,
+    "cd": [
+      1750,
+      1715,
+      1680,
+      1645,
+      1610,
+      1575,
+      1540,
+      1505,
+      1470,
+      1435,
+      1400,
+      1400
+    ]
+  },
+  "85860": {
+    "nationality": 7,
+    "type": 7,
+    "rarity": 4,
+    "tech": 0,
+    "id": 85860,
+    "icon": "85860",
+    "ship_type_forbidden": [
+      22,
+      23,
+      24
+    ],
+    "jp_name": "試作型艦上式Yak-3",
+    "cn_name": "试作舰载型Yak-3",
+    "tw_name": "Prototype Carrier-Based Yak-3",
+    "en_name": "Prototype Carrier-Based Yak-3",
+    "equip_limit": 0,
+    "cd": [
+      1750,
+      1715,
+      1680,
+      1645,
+      1610,
+      1575,
+      1540,
+      1505,
+      1470,
+      1435,
+      1400,
+      1400
+    ]
+  },
+  "85880": {
+    "nationality": 7,
+    "type": 7,
+    "rarity": 4,
+    "tech": 0,
+    "id": 85880,
+    "icon": "85880",
+    "ship_type_forbidden": [
+      22,
+      23,
+      24
+    ],
+    "jp_name": "試作型艦上式Yak-7",
+    "cn_name": "试作舰载型Yak-7",
+    "tw_name": "Prototype Carrier-Based Yak-7",
+    "en_name": "Prototype Carrier-Based Yak-7",
+    "equip_limit": 0,
+    "cd": [
+      1724,
+      1702,
+      1680,
+      1658,
+      1636,
+      1614,
+      1592,
+      1570,
+      1548,
+      1526,
+      1504,
+      1504
     ]
   },
   "89000": {
@@ -22443,6 +22636,72 @@ const equip_data = {
       118,
       118,
       118
+    ]
+  },
+  "90640": {
+    "nationality": 8,
+    "type": 6,
+    "rarity": 4,
+    "tech": 3,
+    "id": 90640,
+    "icon": "50640",
+    "ship_type_forbidden": [
+      22,
+      23,
+      24
+    ],
+    "jp_name": "100mm連装高角砲Mle1937",
+    "cn_name": "双联装100mm高炮Mle1937",
+    "tw_name": "Twin 100mm Mle1937 High-Angle Gun",
+    "en_name": "Twin 100mm Mle1937 High-Angle Gun",
+    "equip_limit": 0,
+    "cd": [
+      241,
+      233,
+      229,
+      224,
+      218,
+      213,
+      206,
+      201,
+      195,
+      191,
+      185,
+      185
+    ]
+  },
+  "90660": {
+    "nationality": 8,
+    "type": 6,
+    "rarity": 5,
+    "tech": 0,
+    "id": 90660,
+    "icon": "50660",
+    "ship_type_forbidden": [
+      22,
+      23,
+      24
+    ],
+    "jp_name": "100mm連装高角砲Mle1945",
+    "cn_name": "双联装100mm高炮Mle1945",
+    "tw_name": "Twin 100mm Mle1945 High-Angle Gun",
+    "en_name": "Twin 100mm Mle1945 High-Angle Gun",
+    "equip_limit": 0,
+    "cd": [
+      225,
+      220,
+      214,
+      210,
+      203,
+      199,
+      194,
+      190,
+      182,
+      178,
+      173,
+      173,
+      173,
+      173
     ]
   },
   "90700": {
@@ -25895,6 +26154,21 @@ const equip_data = {
     "tw_name": "Pressure-Resistant Hull Design",
     "en_name": "Pressure-Resistant Hull Design",
     "equip_limit": 800,
+    "cd": []
+  },
+  "151180": {
+    "nationality": 10,
+    "type": 10,
+    "rarity": 4,
+    "tech": 0,
+    "id": 151180,
+    "icon": "151180",
+    "ship_type_forbidden": [],
+    "jp_name": "笑わせ担当",
+    "cn_name": "搞笑担当",
+    "tw_name": "Master of Laughter",
+    "en_name": "Master of Laughter",
+    "equip_limit": 151180,
     "cd": []
   }
 }
