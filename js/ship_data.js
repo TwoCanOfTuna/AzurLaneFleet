@@ -23274,6 +23274,55 @@ const ship_data = {
       0.0
     ]
   },
+  "303210": {
+    "nationality": 3,
+    "type": 3,
+    "base_list": [
+      2,
+      2,
+      1
+    ],
+    "id": 303214,
+    "skin_id": 303210,
+    "english_name": "IJN Unzen",
+    "star": 5,
+    "rarity": 4,
+    "retro": 0,
+    "uni_id": "303210",
+    "painting": "303210",
+    "jp_name": "雲仙ちゃん",
+    "en_name": "Unzen-chan",
+    "cn_name": "小猃",
+    "tw_name": "Unzen-chan",
+    "equip_1": [
+      3
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "eq_p": [
+      1.1,
+      1.3,
+      1.2
+    ],
+    "reload": [
+      64,
+      445,
+      0,
+      48,
+      0
+    ],
+    "date": "May 28th 2026"
+  },
   "304010": {
     "nationality": 3,
     "type": 4,
@@ -37945,6 +37994,57 @@ const ship_data = {
       0.0
     ]
   },
+  "801060": {
+    "nationality": 8,
+    "type": 1,
+    "base_list": [
+      1,
+      2,
+      1
+    ],
+    "id": 801064,
+    "skin_id": 801060,
+    "english_name": "FFNF L'Intrépide",
+    "star": 5,
+    "rarity": 4,
+    "retro": 0,
+    "uni_id": "801060",
+    "painting": "801060",
+    "jp_name": "ラントレピード",
+    "en_name": "L'Intrépide",
+    "cn_name": "无惧",
+    "tw_name": "L'Intrépide",
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "eq_p": [
+      1.3,
+      1.35,
+      0.75
+    ],
+    "reload": [
+      72,
+      503,
+      0,
+      54,
+      0
+    ],
+    "date": "June 25th 2026"
+  },
   "801070": {
     "nationality": 8,
     "type": 1,
@@ -38750,6 +38850,57 @@ const ship_data = {
       0.0
     ]
   },
+  "806020": {
+    "nationality": 8,
+    "type": 6,
+    "base_list": [
+      2,
+      3,
+      3
+    ],
+    "id": 806024,
+    "skin_id": 806020,
+    "english_name": "FFNF Arromanches",
+    "star": 6,
+    "rarity": 5,
+    "retro": 0,
+    "uni_id": "806020",
+    "painting": "806020",
+    "jp_name": "アローマンシュ",
+    "en_name": "Arromanches",
+    "cn_name": "阿罗芒什",
+    "tw_name": "Arromanches",
+    "equip_1": [
+      7
+    ],
+    "equip_2": [
+      9
+    ],
+    "equip_3": [
+      8
+    ],
+    "equip_4": [
+      10,
+      15
+    ],
+    "equip_5": [
+      10,
+      15
+    ],
+    "eq_p": [
+      1.1,
+      1.25,
+      1.5
+    ],
+    "reload": [
+      65,
+      454,
+      0,
+      49,
+      0
+    ],
+    "date": "June 25th 2026"
+  },
   "807010": {
     "nationality": 8,
     "type": 7,
@@ -38897,6 +39048,56 @@ const ship_data = {
       0
     ],
     "date": "2018年07月26日"
+  },
+  "818010": {
+    "nationality": 8,
+    "type": 18,
+    "base_list": [
+      2,
+      1,
+      1
+    ],
+    "id": 818014,
+    "skin_id": 818010,
+    "english_name": "FFNF Cherbourg",
+    "star": 6,
+    "rarity": 5,
+    "retro": 0,
+    "uni_id": "818010",
+    "painting": "818010",
+    "jp_name": "シェルブール",
+    "en_name": "Cherbourg",
+    "cn_name": "瑟堡",
+    "tw_name": "Cherbourg",
+    "equip_1": [
+      3,
+      11
+    ],
+    "equip_2": [
+      2
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "eq_p": [
+      1.1,
+      0.45,
+      1
+    ],
+    "reload": [
+      62,
+      429,
+      0,
+      46,
+      0
+    ],
+    "date": "June 25th 2026"
   },
   "899010": {
     "nationality": 8,
@@ -41834,6 +42035,57 @@ const ship_data = {
     ],
     "date": "February 1st 2026"
   },
+  "9701120": {
+    "nationality": 97,
+    "type": 1,
+    "base_list": [
+      1,
+      2,
+      1
+    ],
+    "id": 9701124,
+    "skin_id": 9701120,
+    "english_name": "Bristol.META",
+    "star": 6,
+    "rarity": 5,
+    "retro": 0,
+    "uni_id": "9701120",
+    "painting": "9701120",
+    "jp_name": "ブリストル(META)",
+    "en_name": "Bristol META",
+    "cn_name": "布里斯托尔·META",
+    "tw_name": "Bristol META",
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "eq_p": [
+      1.35,
+      1.35,
+      1.6
+    ],
+    "reload": [
+      95,
+      661,
+      0,
+      71,
+      0
+    ],
+    "date": "June 5th 2026"
+  },
   "9702010": {
     "nationality": 97,
     "type": 2,
@@ -42392,6 +42644,57 @@ const ship_data = {
       0
     ],
     "date": "March 12th 2026"
+  },
+  "9702120": {
+    "nationality": 97,
+    "type": 2,
+    "base_list": [
+      1,
+      2,
+      1
+    ],
+    "id": 9702124,
+    "skin_id": 9702120,
+    "english_name": "Konigsberg.META",
+    "star": 5,
+    "rarity": 4,
+    "retro": 0,
+    "uni_id": "9702120",
+    "painting": "9702120",
+    "jp_name": "ケーニヒスベルク(META)",
+    "en_name": "Königsberg META",
+    "cn_name": "阿尔伯缇娜·META",
+    "tw_name": "Königsberg META",
+    "equip_1": [
+      2
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "eq_p": [
+      1.2,
+      1.7,
+      1.3
+    ],
+    "reload": [
+      67,
+      466,
+      0,
+      50,
+      0
+    ],
+    "date": "June 1st 2026"
   },
   "9703010": {
     "nationality": 97,
