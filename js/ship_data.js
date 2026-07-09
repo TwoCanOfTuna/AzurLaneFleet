@@ -49023,5 +49023,259 @@ const ship_data = {
       59.0,
       0.0
     ]
+  },
+  "299060": {
+    "nationality": 2,
+    "type": 4,
+    "base_list": [
+      3,
+      2,
+      1
+    ],
+    "id": 299064,
+    "skin_id": 299060,
+    "english_name": "HMS Duncan",
+    "star": 6,
+    "rarity": 5,
+    "retro": 0,
+    "uni_id": "299060",
+    "painting": "299060",
+    "jp_name": "ダンカン",
+    "en_name": "Duncan",
+    "cn_name": "邓肯",
+    "tw_name": "Duncan",
+    "equip_1": [
+      4
+    ],
+    "equip_2": [
+      1,
+      2
+    ],
+    "equip_3": [
+      6,
+      21
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "eq_p": [
+      1.45,
+      1.8,
+      1.1
+    ],
+    "reload": [
+      62,
+      430,
+      0,
+      46,
+      0
+    ],
+    "date": "July 9th 2026"
+  },
+  "399080": {
+    "nationality": 3,
+    "type": 2,
+    "base_list": [
+      2,
+      2,
+      1
+    ],
+    "id": 399084,
+    "skin_id": 399080,
+    "english_name": "IJN Takahashi",
+    "star": 6,
+    "rarity": 5,
+    "retro": 0,
+    "uni_id": "399080",
+    "painting": "399080",
+    "jp_name": "高梁",
+    "en_name": "Takahashi",
+    "cn_name": "狒",
+    "tw_name": "Takahashi",
+    "equip_1": [
+      2
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "eq_p": [
+      1.3,
+      1.5,
+      1.75
+    ],
+    "reload": [
+      62,
+      430,
+      0,
+      46,
+      0
+    ],
+    "date": "July 9th 2026"
+  },
+  "499110": {
+    "nationality": 4,
+    "type": 7,
+    "base_list": [
+      3,
+      3,
+      3
+    ],
+    "id": 499114,
+    "skin_id": 499110,
+    "english_name": "KMS Max Immelmann",
+    "star": 6,
+    "rarity": 6,
+    "retro": 0,
+    "uni_id": "499110",
+    "painting": "499110",
+    "jp_name": "マックス・インメルマン",
+    "en_name": "Max Immelmann",
+    "cn_name": "玛克西米莉安·伊梅拉",
+    "tw_name": "Max Immelmann",
+    "equip_1": [
+      7
+    ],
+    "equip_2": [
+      9,
+      8
+    ],
+    "equip_3": [
+      8,
+      7
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "eq_p": [
+      1.6,
+      1.6,
+      1.6
+    ],
+    "reload": [
+      48,
+      335,
+      0,
+      36,
+      0
+    ],
+    "date": "July 9th 2026"
+  },
+  "899050": {
+    "nationality": 8,
+    "type": 1,
+    "base_list": [
+      1,
+      2,
+      1
+    ],
+    "id": 899054,
+    "skin_id": 899050,
+    "english_name": "FFNF Orage",
+    "star": 6,
+    "rarity": 5,
+    "retro": 0,
+    "uni_id": "899050",
+    "painting": "899050",
+    "jp_name": "オラージュ",
+    "en_name": "Orage",
+    "cn_name": "暴风雨",
+    "tw_name": "Orage",
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "eq_p": [
+      1.7,
+      1.4,
+      0.8
+    ],
+    "reload": [
+      80,
+      554,
+      0,
+      59,
+      0
+    ],
+    "date": "July 9th 2026"
+  },
+  "1299010": {
+    "nationality": 12,
+    "type": 5,
+    "base_list": [
+      3,
+      3,
+      1
+    ],
+    "id": 1299014,
+    "skin_id": 1299010,
+    "english_name": "Valparaíso",
+    "star": 6,
+    "rarity": 6,
+    "retro": 0,
+    "uni_id": "1299010",
+    "painting": "1299010",
+    "jp_name": "バルパライソ",
+    "en_name": "Valparaíso",
+    "cn_name": "瓦尔帕莱索",
+    "tw_name": "Valparaíso",
+    "equip_1": [
+      4
+    ],
+    "equip_2": [
+      1
+    ],
+    "equip_3": [
+      6,
+      21
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "eq_p": [
+      1.4,
+      1.5,
+      1.5
+    ],
+    "reload": [
+      65,
+      449,
+      0,
+      48,
+      0
+    ],
+    "date": "July 9th 2026"
   }
 }
