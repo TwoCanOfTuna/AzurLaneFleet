@@ -3934,5 +3934,33 @@ const sp_weapon_data = {
     "en_name": "Highborn Princess's Command",
     "cn_name": "贵公主的命令",
     "tw_name": "Highborn Princess's Command"
+  },
+  "9915500": {
+    "id": 9915500,
+    "icon": "15500",
+    "eq_reload": [],
+    "rarity": 4,
+    "tech": 0,
+    "max": 10,
+    "limit": 60303,
+    "type": 4,
+    "jp_name": "グラーツィア・スタイル",
+    "en_name": "Grazia e Disciplina",
+    "cn_name": "波拉的护手刺剑",
+    "tw_name": "Grazia e Disciplina"
+  },
+  "15520": {
+    "id": 15520,
+    "icon": "15520",
+    "eq_reload": [],
+    "rarity": 4,
+    "tech": 0,
+    "max": 10,
+    "limit": 10301,
+    "type": 4,
+    "jp_name": "OKキャップ",
+    "en_name": "OK! Cap",
+    "cn_name": "十分OK！",
+    "tw_name": "OK! Cap"
   }
 }
